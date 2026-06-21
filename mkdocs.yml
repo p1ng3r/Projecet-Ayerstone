@@ -1,0 +1,61 @@
+site_name: Project Ayerstone
+site_description: Player-facing Arkflight and Ayerstone campaign guide
+site_url: https://p1ng3r.github.io/Projecet-Ayerstone/
+repo_url: https://github.com/p1ng3r/Projecet-Ayerstone
+repo_name: p1ng3r/Projecet-Ayerstone
+
+theme:
+  name: material
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.expand
+    - navigation.top
+    - search.suggest
+    - search.highlight
+    - content.code.copy
+  palette:
+    scheme: slate
+    primary: indigo
+    accent: amber
+
+plugins:
+  - search
+
+markdown_extensions:
+  - admonition
+  - attr_list
+  - md_in_html
+  - tables
+  - toc:
+      permalink: true
+  - pymdownx.details
+  - pymdownx.superfences
+
+nav:
+  - Home: index.md
+  - Player Guide:
+      - Overview: player-guide/index.md
+      - What Is Arkflight?: player-guide/what-is-arkflight.md
+      - Ayerstone Overview: player-guide/ayerstone-overview.md
+  - Districts:
+      - Overview: districts/index.md
+      - Grand Docks: districts/grand-docks.md
+      - Merchant's Reach: districts/merchants-reach.md
+      - Driftwall: districts/driftwall.md
+      - Crownward: districts/crownward.md
+  - Great Houses:
+      - Overview: houses/index.md
+  - Guilds & Orders:
+      - Overview: guilds/index.md
+  - Religions:
+      - Overview: religions/index.md
+      - Aeloria: religions/aeloria.md
+  - Arkflight Tech:
+      - Overview: arkflight-tech/index.md
+      - Arkengines: arkflight-tech/arkengines.md
+      - Aetherite: arkflight-tech/aetherite.md
+      - Ark Compass: arkflight-tech/ark-compass.md
+  - Reference:
+      - Glossary: reference/glossary.md
+      - NPC Index: reference/npc-index.md
