@@ -1,0 +1,113 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 600" role="img" aria-label="Ayerstone floating medieval space city">
+  <defs>
+    <radialGradient id="skyGlow" cx="72%" cy="18%" r="55%">
+      <stop offset="0" stop-color="#523e94" stop-opacity="0.92"/>
+      <stop offset="0.28" stop-color="#171d43" stop-opacity="0.84"/>
+      <stop offset="1" stop-color="#050714"/>
+    </radialGradient>
+    <linearGradient id="void" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#040713"/>
+      <stop offset="0.48" stop-color="#111737"/>
+      <stop offset="1" stop-color="#060612"/>
+    </linearGradient>
+    <linearGradient id="stone" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#6d6872"/>
+      <stop offset="0.55" stop-color="#2d3140"/>
+      <stop offset="1" stop-color="#11131c"/>
+    </linearGradient>
+    <linearGradient id="gold" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#ffe8a8"/>
+      <stop offset="0.4" stop-color="#d0a24b"/>
+      <stop offset="1" stop-color="#6d4b1b"/>
+    </linearGradient>
+    <linearGradient id="water" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#d4f8ff"/>
+      <stop offset="0.45" stop-color="#5cc4ff" stop-opacity="0.85"/>
+      <stop offset="1" stop-color="#2b5f9c" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="glow" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="4" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <filter id="soft" x="-20%" y="-20%" width="140%" height="140%"><feGaussianBlur stdDeviation="1.2"/></filter>
+    <pattern id="stars" width="90" height="70" patternUnits="userSpaceOnUse">
+      <circle cx="11" cy="13" r="1.1" fill="#ffffff" opacity="0.7"/>
+      <circle cx="43" cy="8" r="0.8" fill="#a9d8ff" opacity="0.75"/>
+      <circle cx="70" cy="44" r="1.3" fill="#f7d78a" opacity="0.65"/>
+      <circle cx="25" cy="55" r="0.7" fill="#ffffff" opacity="0.55"/>
+      <circle cx="83" cy="22" r="0.6" fill="#ffffff" opacity="0.5"/>
+    </pattern>
+    <g id="tower">
+      <rect x="-12" y="-70" width="24" height="70" rx="2" fill="#2a2c38" stroke="#b38a42" stroke-width="2"/>
+      <polygon points="-18,-70 0,-104 18,-70" fill="#151927" stroke="#d0a24b" stroke-width="2"/>
+      <rect x="-5" y="-51" width="10" height="18" rx="5" fill="#f3c66f" opacity="0.86"/>
+    </g>
+    <g id="airship">
+      <path d="M-62,10 C-40,28 28,28 62,6 C46,38 -30,45 -62,10Z" fill="#4b2818" stroke="#d0a24b" stroke-width="3"/>
+      <path d="M-42,-65 C-8,-92 45,-70 56,-14 C18,-22 -18,-18 -52,-12 Z" fill="#d7c093" stroke="#7d5422" stroke-width="3"/>
+      <path d="M-28,-58 C-5,-36 19,-27 50,-18" fill="none" stroke="#7d5422" stroke-width="2"/>
+      <line x1="-35" y1="-12" x2="-22" y2="15" stroke="#b98a3a" stroke-width="2"/>
+      <line x1="31" y1="-17" x2="20" y2="17" stroke="#b98a3a" stroke-width="2"/>
+      <circle cx="66" cy="5" r="9" fill="#5ad7ff" filter="url(#glow)"/>
+    </g>
+  </defs>
+  <rect width="1600" height="600" fill="url(#void)"/>
+  <rect width="1600" height="600" fill="url(#skyGlow)" opacity="0.78"/>
+  <rect width="1600" height="600" fill="url(#stars)" opacity="0.9"/>
+  <g opacity="0.65" filter="url(#soft)">
+    <path d="M1110 50c76-48 176-31 235 17-99-11-165 18-221 79 62-30 125-33 201-5-97 24-155 74-203 150 11-88-16-151-98-193 32 1 60-10 86-48z" fill="#6b4ac7" opacity="0.38"/>
+    <path d="M1210 75c38-2 75 15 100 45-48-18-94-4-130 30 21-37 25-57 30-75z" fill="#6ed8ff" opacity="0.42"/>
+  </g>
+  <g stroke="#1d1722" stroke-width="7" opacity="0.85">
+    <path d="M85 392 C230 327 300 372 418 315" fill="none"/>
+    <path d="M1180 353 C1308 302 1424 350 1540 287" fill="none"/>
+    <path d="M192 178 C342 234 500 201 636 270" fill="none"/>
+  </g>
+  <g stroke="#4d3a22" stroke-width="3" opacity="0.8">
+    <path d="M85 392 C230 327 300 372 418 315" fill="none" stroke-dasharray="7 9"/>
+    <path d="M1180 353 C1308 302 1424 350 1540 287" fill="none" stroke-dasharray="7 9"/>
+    <path d="M192 178 C342 234 500 201 636 270" fill="none" stroke-dasharray="7 9"/>
+  </g>
+  <g opacity="0.72">
+    <path d="M95 340 L168 318 L244 348 L218 415 L132 430 Z" fill="url(#stone)" stroke="#b38a42" stroke-width="2"/>
+    <path d="M130 430 L217 415 L190 520 L155 586 Z" fill="#11131c"/>
+    <use href="#tower" x="151" y="338" transform="scale(.85)"/>
+    <use href="#tower" x="207" y="350" transform="scale(.55)"/>
+    <path d="M1340 315 L1465 282 L1558 332 L1518 433 L1398 430 Z" fill="url(#stone)" stroke="#b38a42" stroke-width="2"/>
+    <path d="M1400 430 L1518 433 L1470 585 L1430 585 Z" fill="#10131c"/>
+    <use href="#tower" x="1448" y="298"/>
+    <use href="#tower" x="1510" y="321" transform="scale(.7)"/>
+  </g>
+  <g transform="translate(0,8)">
+    <path d="M300 355 C420 270 575 280 690 230 C850 160 1000 206 1110 270 C1195 321 1286 315 1380 365 L1332 410 C1130 404 964 438 748 424 C552 411 420 423 248 398 Z" fill="url(#stone)" stroke="#c09446" stroke-width="4"/>
+    <path d="M275 397 C438 430 636 416 800 438 C980 464 1160 416 1346 407 C1258 474 1182 525 1105 590 L470 590 C410 520 340 472 275 397Z" fill="#11131c"/>
+    <path d="M452 326 L1180 331 L1145 386 L480 384 Z" fill="#343747" stroke="#d0a24b" stroke-width="3"/>
+    <path d="M505 272 L1088 270 L1115 328 L470 329 Z" fill="#282b39" stroke="#d0a24b" stroke-width="3"/>
+    <path d="M610 222 L970 216 L1056 270 L535 272 Z" fill="#333747" stroke="#d0a24b" stroke-width="3"/>
+    <path d="M710 160 L900 160 L990 216 L615 224 Z" fill="#2c303d" stroke="#d0a24b" stroke-width="3"/>
+    <path d="M748 113 L862 113 L914 160 L695 160 Z" fill="#323643" stroke="#d0a24b" stroke-width="3"/>
+    <use href="#tower" x="706" y="159" transform="scale(.7)"/>
+    <use href="#tower" x="790" y="119" transform="scale(1.1)"/>
+    <use href="#tower" x="888" y="160" transform="scale(.75)"/>
+    <use href="#tower" x="600" y="270" transform="scale(.7)"/>
+    <use href="#tower" x="1034" y="268" transform="scale(.7)"/>
+    <use href="#tower" x="458" y="383" transform="scale(.58)"/>
+    <use href="#tower" x="1148" y="383" transform="scale(.58)"/>
+    <g fill="#ffc96f" opacity="0.82">
+      <rect x="530" y="296" width="8" height="13" rx="3"/><rect x="570" y="298" width="8" height="13" rx="3"/><rect x="630" y="296" width="8" height="13" rx="3"/><rect x="690" y="246" width="8" height="13" rx="3"/><rect x="770" y="187" width="8" height="13" rx="3"/><rect x="845" y="188" width="8" height="13" rx="3"/><rect x="910" y="246" width="8" height="13" rx="3"/><rect x="980" y="298" width="8" height="13" rx="3"/><rect x="1050" y="298" width="8" height="13" rx="3"/>
+    </g>
+    <path d="M1030 248 C1065 227 1110 230 1146 254 C1125 276 1070 276 1030 248Z" fill="#191831" stroke="#65d8ff" stroke-width="4" opacity="0.94" filter="url(#glow)"/>
+    <path d="M1088 253 L1080 486" stroke="url(#water)" stroke-width="36" opacity="0.82"/>
+    <path d="M1048 262 L1026 470" stroke="url(#water)" stroke-width="13" opacity="0.65"/>
+    <path d="M1128 265 L1156 468" stroke="url(#water)" stroke-width="17" opacity="0.62"/>
+    <path d="M685 407 H910 V467 H685 Z" fill="#171b25" stroke="#d0a24b" stroke-width="4"/>
+    <path d="M720 465 V430 C720 400 762 400 762 430 V465 Z" fill="#0b0d14" stroke="#d0a24b" stroke-width="3"/>
+    <text x="798" y="448" text-anchor="middle" font-family="Cinzel, Georgia, serif" font-size="31" fill="#d7a94b" letter-spacing="3">GRAND DOCKS</text>
+  </g>
+  <use href="#airship" x="185" y="480" transform="scale(1.1)"/>
+  <use href="#airship" x="1285" y="430" transform="scale(.9)"/>
+  <use href="#airship" x="124" y="160" transform="scale(.68)"/>
+  <use href="#airship" x="1470" y="190" transform="scale(.52)"/>
+  <rect x="20" y="20" width="1560" height="560" rx="22" fill="none" stroke="url(#gold)" stroke-width="6" opacity="0.84"/>
+  <rect x="35" y="35" width="1530" height="530" rx="16" fill="none" stroke="#14111c" stroke-width="4" opacity="0.9"/>
+</svg>
