@@ -1,0 +1,14 @@
+.md-typeset .hero--ayerstone{min-height:24rem;display:flex;flex-direction:column;justify-content:flex-end;background:linear-gradient(90deg,rgba(5,7,18,.88),rgba(9,11,26,.48),rgba(5,7,18,.78)),linear-gradient(180deg,rgba(5,7,18,.08),rgba(5,7,18,.86)),url('../assets/art/ayerstone-header.svg') center/cover no-repeat;border-color:rgba(215,169,75,.62)}
+.md-typeset .hero--ayerstone:before{opacity:.08}
+.md-typeset .hero--ayerstone h1,.md-typeset .hero--ayerstone h2,.md-typeset .hero--ayerstone p{max-width:44rem;text-shadow:0 .18rem .6rem rgba(0,0,0,.95),0 0 1.4rem rgba(0,0,0,.75)}
+.md-typeset .hero--ayerstone h1{font-size:clamp(2.6rem,6vw,5rem);line-height:.95}
+.md-typeset .hero--ayerstone h2{color:#dcc5ff;font-size:clamp(1.4rem,3vw,2rem)}
+.md-typeset .ayerstone-side-float{float:right;width:min(31%,17rem);margin:.2rem 0 1.25rem 1.5rem}
+.md-typeset .ayerstone-side-float img{width:100%;border-radius:1rem;border:1px solid rgba(215,169,75,.42);box-shadow:0 1rem 2.6rem rgba(0,0,0,.42),0 0 1.8rem rgba(84,196,255,.10)}
+.md-typeset .ayerstone-art-grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:1rem;margin:1.2rem 0 2rem}
+.md-typeset .ayerstone-art-card{display:block;overflow:hidden;color:#e8e2d2;text-decoration:none;background:linear-gradient(180deg,rgba(27,24,49,.88),rgba(14,14,28,.94));border:1px solid rgba(215,169,75,.30);border-radius:.95rem;box-shadow:0 .6rem 1.4rem rgba(0,0,0,.30);transition:all 160ms ease}
+.md-typeset .ayerstone-art-card:hover{color:#fff0bd;transform:translateY(-3px);border-color:rgba(255,227,163,.80);box-shadow:0 .95rem 1.9rem rgba(0,0,0,.38),0 0 1.8rem rgba(126,92,194,.16)}
+.md-typeset .ayerstone-art-card img{display:block;width:100%;aspect-ratio:1000/360;object-fit:cover;border-bottom:1px solid rgba(215,169,75,.28)}
+.md-typeset .ayerstone-art-card strong{display:block;padding:.8rem 1rem .15rem;color:#ffe3a3;font-family:'Cinzel',Georgia,serif;font-size:1.05rem;letter-spacing:.03em}
+.md-typeset .ayerstone-art-card span{display:block;padding:0 1rem 1rem;color:#d9d1bf;font-size:.8rem;line-height:1.55}
+@media screen and (max-width:44.9375em){.md-typeset .hero--ayerstone{min-height:18rem;padding:2.4rem 1.3rem}.md-typeset .ayerstone-side-float{float:none;width:100%;max-width:20rem;margin:0 auto 1.25rem}.md-typeset .ayerstone-art-grid{grid-template-columns:1fr}}
