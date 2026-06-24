@@ -42,3 +42,14 @@ Children must create something useful at the First Forge. Calluses are worn prou
 ## Common Saying
 
 > Heat makes truth.
+
+## Court Whispers
+
+!!! info "Public Rumor"
+    Emberhall artisans say a well-made hinge reveals more honor than a jeweled speech.
+
+!!! warning "Risky Rumor"
+    Some factory families know which furnace contracts are tied to royal favor.
+
+!!! question "Whispered Claim"
+    A few Emberhall machines may still carry designs copied from relics found below the city.
