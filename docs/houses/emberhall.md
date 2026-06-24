@@ -1,4 +1,4 @@
-<div class="house-page-hero house-page-emberhall" markdown>
+<section class="house-page-hero house-page-emberhall">
   <div class="house-page-hero__art"><img src="../../assets/houses/emberhall.jpg" alt="House Emberhall banner" loading="lazy"></div>
   <div class="house-page-hero__content">
     <p class="house-page-hero__eyebrow">Great House of Ayerstone</p>
@@ -7,9 +7,9 @@
     <p class="house-page-hero__motto">“Heat makes truth.”</p>
     <div class="house-page-hero__tags"><span>Industry</span><span>Foundries</span><span>Labor</span></div>
   </div>
-</div>
+</section>
 
-<div class="house-glance" markdown>
+<section class="house-glance">
   <div class="house-glance__title">At a Glance</div>
   <div class="house-glance__grid">
     <div class="house-glance__item"><span class="house-glance__label">Sphere</span><span class="house-glance__value">Foundries, manufacturing, tools, armor, machinery, and industrial infrastructure.</span></div>
@@ -17,7 +17,7 @@
     <div class="house-glance__item"><span class="house-glance__label">Colors</span><span class="house-glance__value">Dark brick, black iron, brass, furnace orange, leather, and ember-gold.</span></div>
     <div class="house-glance__item"><span class="house-glance__label">Known For</span><span class="house-glance__value">Continuous furnaces, First Forge rites, callused pride, and useful things made from heat.</span></div>
   </div>
-</div>
+</section>
 
 ## Overview
 
