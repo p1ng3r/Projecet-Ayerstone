@@ -9,6 +9,16 @@
   </div>
 </div>
 
+<div class="house-glance" markdown>
+  <div class="house-glance__title">At a Glance</div>
+  <div class="house-glance__grid">
+    <div class="house-glance__item"><span class="house-glance__label">Sphere</span><span class="house-glance__value">Mining, stonework, aetherite claims, deep shafts, and structural foundations.</span></div>
+    <div class="house-glance__item"><span class="house-glance__label">Seat</span><span class="house-glance__value">Deepstone Gate, ore lifts, and holdings near the Grand Docks.</span></div>
+    <div class="house-glance__item"><span class="house-glance__label">Colors</span><span class="house-glance__value">Black granite, iron, brass, red-brown stone, and ore-dark gems.</span></div>
+    <div class="house-glance__item"><span class="house-glance__label">Known For</span><span class="house-glance__value">Subterranean estates, First Strike rites, practical wealth, and stone that remembers.</span></div>
+  </div>
+</div>
+
 ## Overview
 
 House Ironmantle controls mining, stonework, deep shafts, ore claims, aetherite extraction, and the hidden foundations of Ayerstone.
