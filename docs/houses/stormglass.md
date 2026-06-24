@@ -1,4 +1,4 @@
-<div class="house-page-hero house-page-stormglass" markdown>
+<section class="house-page-hero house-page-stormglass">
   <div class="house-page-hero__art"><img src="../../assets/houses/stormglass.jpg" alt="House Stormglass banner" loading="lazy"></div>
   <div class="house-page-hero__content">
     <p class="house-page-hero__eyebrow">Great House of Ayerstone</p>
@@ -7,9 +7,9 @@
     <p class="house-page-hero__motto">“Build what the void cannot break.”</p>
     <div class="house-page-hero__tags"><span>Ships</span><span>Engines</span><span>Design</span></div>
   </div>
-</div>
+</section>
 
-<div class="house-glance" markdown>
+<section class="house-glance">
   <div class="house-glance__title">At a Glance</div>
   <div class="house-glance__grid">
     <div class="house-glance__item"><span class="house-glance__label">Sphere</span><span class="house-glance__value">Shipbuilding, repairs, engineering, prototypes, and Arkflight design.</span></div>
@@ -17,7 +17,7 @@
     <div class="house-glance__item"><span class="house-glance__label">Colors</span><span class="house-glance__value">Storm-gray, copper, blue glass, sailcloth white, and polished metal.</span></div>
     <div class="house-glance__item"><span class="house-glance__label">Known For</span><span class="house-glance__value">Model halls, drafting rooms, first hammers, failed inventions, and dangerous dreamers.</span></div>
   </div>
-</div>
+</section>
 
 ## Overview
 
