@@ -53,7 +53,7 @@ At the Table of Chains, Caedran rarely speaks first. When he does, his words car
 
 ### Olstar Vin-Har
 
-<img src="../../npcs/house-aurelian/Olstar%20Vin-Har..webp" alt="Olstar Vin-Har" loading="lazy">
+<img src="../../npcs/house-aurelian/Olstar%20Vin-Har.webp" alt="Olstar Vin-Har" loading="lazy">
 
 *Keeper of the Sealed Vaults*
 
