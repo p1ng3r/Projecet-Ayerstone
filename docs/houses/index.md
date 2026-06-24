@@ -5,13 +5,24 @@
     <p class="great-houses-hero__eyebrow">The Great Houses of Ayerstone</p>
     <h1>The Table of Chains</h1>
     <p class="great-houses-hero__subtitle">Nine houses. One city. A thousand hidden bargains.</p>
-    <div class="great-houses-hero__tags"><span>Crown</span><span>Trade</span><span>Debt</span><span>Steel</span><span>Water</span></div>
+    <div class="great-houses-hero__actions">
+      <a href="#choose-a-house">Choose a House</a>
+      <a href="#power-at-a-glance">Power Dashboard</a>
+      <a href="#web-of-power">Web of Power</a>
+    </div>
+    <div class="great-houses-hero__tags">
+      <a href="aurelian/">Crown</a>
+      <a href="starweaver/">Trade</a>
+      <a href="veyr/">Debt</a>
+      <a href="marruk/">Steel</a>
+      <a href="tidereach/">Water</a>
+    </div>
   </div>
 </section>
 
 The Great Houses are the noble, commercial, military, industrial, agricultural, financial, and infrastructural powers that shape public life in Ayerstone.
 
-<section class="house-dashboard">
+<section id="power-at-a-glance" class="house-dashboard">
   <div class="house-dashboard__header">
     <p class="house-dashboard__eyebrow">Power at a Glance</p>
     <h2>Who Holds What</h2>
@@ -29,7 +40,7 @@ The Great Houses are the noble, commercial, military, industrial, agricultural, 
 
 <div class="house-registry" markdown>
 
-## Choose a House
+## Choose a House { #choose-a-house }
 
 Every banner below opens that house's page. Each house carries a public face, a sphere of power, and a reputation that follows its colors through the streets, courts, docks, and guildhalls of Ayerstone.
 
@@ -125,7 +136,7 @@ Every banner below opens that house's page. Each house carries a public face, a 
   </a>
 </div>
 
-<section class="power-web">
+<section id="web-of-power" class="power-web">
   <h2>The Web of Power</h2>
   <p class="power-web__intro">The Great Houses rarely move alone. Every public alliance hides a pressure point, every old grudge needs a polite mask, and every contract pulls on more than one banner.</p>
   <div class="power-web__grid">
