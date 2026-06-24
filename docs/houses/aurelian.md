@@ -22,7 +22,7 @@
 ## Notable Figures
 
 <section class="house-feature house-feature--aurelian">
-  <div class="house-feature__portrait"><img src="/Ayerstone-Setting-Guide/npcs/house-aurelian/Lord%20Caedran%20Aurelian.webp" alt="Lord Caedran Aurelian portrait" loading="lazy" onerror="this.closest('.house-feature').remove()"></div>
+  <div class="house-feature__portrait"><img src="https://raw.githubusercontent.com/p1ng3r/Ayerstone-Setting-Guide/main/docs/npcs/house-aurelian/Lord%20Caedran%20Aurelian.webp" alt="Lord Caedran Aurelian portrait" loading="lazy"></div>
   <div class="house-feature__body">
     <p class="house-feature__eyebrow">House Aurelian Figure</p>
     <h2>Lord Caedran Aurelian</h2>
@@ -35,7 +35,7 @@
 </section>
 
 <section class="house-feature house-feature--aurelian">
-  <div class="house-feature__portrait"><img src="/Ayerstone-Setting-Guide/npcs/house-aurelian/Olstar%20Vin-Har.webp" alt="Olstar Vin-Har portrait" loading="lazy" onerror="this.closest('.house-feature').remove()"></div>
+  <div class="house-feature__portrait"><img src="https://raw.githubusercontent.com/p1ng3r/Ayerstone-Setting-Guide/main/docs/npcs/house-aurelian/Olstar%20Vin-Har.webp" alt="Olstar Vin-Har portrait" loading="lazy"></div>
   <div class="house-feature__body">
     <p class="house-feature__eyebrow">House Aurelian Figure</p>
     <h2>Olstar Vin-Har</h2>
@@ -48,7 +48,7 @@
 </section>
 
 <section class="house-feature house-feature--aurelian">
-  <div class="house-feature__portrait"><img src="/Ayerstone-Setting-Guide/npcs/house-aurelian/Lady%20Vaelessa%20Aurelian.webp" alt="Lady Vaelessa Aurelian portrait" loading="lazy" onerror="this.closest('.house-feature').remove()"></div>
+  <div class="house-feature__portrait"><img src="https://raw.githubusercontent.com/p1ng3r/Ayerstone-Setting-Guide/main/docs/npcs/house-aurelian/Lady%20Vaelessa%20Aurelian.webp" alt="Lady Vaelessa Aurelian portrait" loading="lazy"></div>
   <div class="house-feature__body">
     <p class="house-feature__eyebrow">House Aurelian Figure</p>
     <h2>Lady Vaelessa Aurelian</h2>
