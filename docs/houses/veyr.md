@@ -42,3 +42,14 @@ Veyr children learn signatures, law, finance, contracts, and consequence early. 
 ## Common Saying
 
 > Gold spends. Reputation compounds.
+
+## Court Whispers
+
+!!! info "Public Rumor"
+    A Veyr clerk can read a family fortune from the handwriting on a single receipt.
+
+!!! warning "Risky Rumor"
+    Some debts in Veyr ledgers are inherited by people who have never heard of the original contract.
+
+!!! question "Whispered Claim"
+    The oldest Veyr vault may contain sealed accounts tied to vanished noble lines.
