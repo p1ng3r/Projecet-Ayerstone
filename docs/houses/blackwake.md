@@ -1,4 +1,4 @@
-<div class="house-page-hero house-page-blackwake" markdown>
+<section class="house-page-hero house-page-blackwake">
   <div class="house-page-hero__art"><img src="../../assets/houses/blackwake.jpg" alt="House Blackwake banner" loading="lazy"></div>
   <div class="house-page-hero__content">
     <p class="house-page-hero__eyebrow">Great House of Ayerstone</p>
@@ -7,9 +7,9 @@
     <p class="house-page-hero__motto">“The Wake Remembers.”</p>
     <div class="house-page-hero__tags"><span>Privateers</span><span>Escorts</span><span>Convoys</span></div>
   </div>
-</div>
+</section>
 
-<div class="house-glance" markdown>
+<section class="house-glance">
   <div class="house-glance__title">At a Glance</div>
   <div class="house-glance__grid">
     <div class="house-glance__item"><span class="house-glance__label">Sphere</span><span class="house-glance__value">Convoy protection, escort contracts, naval discipline, and anti-piracy work.</span></div>
@@ -17,7 +17,7 @@
     <div class="house-glance__item"><span class="house-glance__label">Colors</span><span class="house-glance__value">Black stone, weathered timber, brass, dark leather, and sea-dark green.</span></div>
     <div class="house-glance__item"><span class="house-glance__label">Known For</span><span class="house-glance__value">Signal beacons, ship discipline, empty chairs for lost sailors, and hard-earned protection.</span></div>
   </div>
-</div>
+</section>
 
 ## Overview
 
