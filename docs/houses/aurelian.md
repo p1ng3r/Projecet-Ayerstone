@@ -1,4 +1,4 @@
-<div class="house-page-hero house-page-aurelian" markdown>
+<section class="house-page-hero house-page-aurelian">
   <div class="house-page-hero__art"><img src="../../assets/houses/aurelian.jpg" alt="House Aurelian banner" loading="lazy"></div>
   <div class="house-page-hero__content">
     <p class="house-page-hero__eyebrow">Great House of Ayerstone</p>
@@ -7,9 +7,9 @@
     <p class="house-page-hero__motto">“The Stone Endures.”</p>
     <div class="house-page-hero__tags"><span>Crown</span><span>Law</span><span>Legacy</span></div>
   </div>
-</div>
+</section>
 
-<div class="house-glance" markdown>
+<section class="house-glance">
   <div class="house-glance__title">At a Glance</div>
   <div class="house-glance__grid">
     <div class="house-glance__item"><span class="house-glance__label">Sphere</span><span class="house-glance__value">Monarchy, legitimacy, ceremonial law, and royal continuity.</span></div>
@@ -17,7 +17,7 @@
     <div class="house-glance__item"><span class="house-glance__label">Colors</span><span class="house-glance__value">White marble, gold, violet, and crown-bright stone.</span></div>
     <div class="house-glance__item"><span class="house-glance__label">Known For</span><span class="house-glance__value">Ancient rulership, public ceremony, dynastic memory, and the burden of old bargains.</span></div>
   </div>
-</div>
+</section>
 
 ## Overview
 
