@@ -1,0 +1,12 @@
+.md-typeset .house-feature{--feature-color:#65b6ff;--feature-glow:rgba(101,182,255,.25);display:grid;grid-template-columns:minmax(12rem,17rem) minmax(0,1fr);gap:1rem;align-items:stretch;margin:1.4rem 0 1.9rem;padding:1rem;border:1px solid color-mix(in srgb,var(--feature-color) 34%,transparent);border-radius:1.05rem;background:radial-gradient(circle at top left,color-mix(in srgb,var(--feature-color) 13%,transparent),transparent 15rem),linear-gradient(180deg,rgba(14,17,36,.86),rgba(7,9,21,.95));box-shadow:0 1rem 2rem rgba(0,0,0,.25),inset 0 0 1.5rem rgba(255,255,255,.03)}
+.md-typeset .house-feature__portrait{position:relative;border-radius:.9rem;overflow:hidden;border:1px solid rgba(255,255,255,.10);background:rgba(5,7,18,.55);box-shadow:0 0 1.2rem var(--feature-glow)}
+.md-typeset .house-feature__portrait img{display:block;width:100%;height:100%;min-height:20rem;object-fit:cover;object-position:center 28%}
+.md-typeset .house-feature__body{display:flex;flex-direction:column;justify-content:center;padding:.15rem .2rem}
+.md-typeset .house-feature__eyebrow{margin:0 0 .35rem;color:#ffe3a3;font-family:'Cinzel',Georgia,serif;font-size:.72rem;letter-spacing:.14em;text-transform:uppercase}
+.md-typeset .house-feature h2{margin:0 0 .25rem;color:#f5e7bf;font-family:'Cinzel',Georgia,serif;font-size:clamp(1.55rem,3.2vw,2.15rem);line-height:1.08;text-shadow:0 .1rem .16rem #000,0 0 .7rem var(--feature-glow)}
+.md-typeset .house-feature__subtitle{margin:0 0 .75rem;color:#b8ccf5;font-size:.88rem;line-height:1.4}
+.md-typeset .house-feature__quote{margin:.1rem 0 .85rem;padding:.7rem .85rem;border-left:.18rem solid var(--feature-color);border-radius:.45rem;background:rgba(5,7,18,.45);color:#ffe7ae;font-family:Georgia,serif;font-size:1rem;font-style:italic;line-height:1.45;box-shadow:inset 0 0 .8rem color-mix(in srgb,var(--feature-color) 8%,transparent)}
+.md-typeset .house-feature__text{margin:0;color:#e4dccf;font-size:.82rem;line-height:1.55}
+.md-typeset .house-feature__tags{display:flex;flex-wrap:wrap;gap:.45rem;margin-top:.8rem}
+.md-typeset .house-feature__tags span{padding:.2rem .6rem;border:1px solid color-mix(in srgb,var(--feature-color) 45%,transparent);border-radius:999px;color:#dfeaff;font-size:.72rem;background:rgba(8,12,28,.5)}
+@media screen and (max-width:59.9375em){.md-typeset .house-feature{grid-template-columns:1fr}.md-typeset .house-feature__portrait{max-width:24rem}.md-typeset .house-feature__portrait img{min-height:auto}}
