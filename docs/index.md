@@ -33,7 +33,7 @@ Ayerstone is a massive floating world-shard city suspended in the dark void. Ark
     <span>Explore the major districts of Ayerstone: Crownward, Merchant Reach, Driftwall, the Grand Docks, Noble Row, Portal Lake, Brassworks, Deepstone Gate, and Waterfall Ward.</span>
   </a>
   <a class="ayerstone-art-card" href="houses/" aria-label="Open Great Houses">
-    <img data-ayerstone-art="great" alt="Great Houses">
+    <img src="assets/art/great-houses-card.svg" alt="Great Houses">
     <strong>Great Houses</strong>
     <span>Learn the noble houses that shape the city's politics, trade, food, ships, law, water, and industry.</span>
   </a>
@@ -51,7 +51,7 @@ Ayerstone is a massive floating world-shard city suspended in the dark void. Ark
 
 <script>
 (function () {
-  var version = '20260623f';
+  var version = '20260623g';
   function loadArt(name) {
     return fetch('assets/art/inline/' + name + '.b64.txt?v=' + version, { cache: 'no-store' })
       .then(function (response) {
@@ -63,7 +63,7 @@ Ayerstone is a massive floating world-shard city suspended in the dark void. Ark
       });
   }
 
-  Promise.all(['header', 'side', 'explore', 'great', 'chain', 'ark'].map(function (name) {
+  Promise.all(['header', 'side', 'explore', 'chain', 'ark'].map(function (name) {
     return loadArt(name).then(function (url) { return [name, url]; });
   })).then(function (entries) {
     var art = {};
