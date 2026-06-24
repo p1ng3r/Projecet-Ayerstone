@@ -1,5 +1,5 @@
 <div class="house-page-hero house-page-ironmantle" markdown>
-  <div class="house-page-hero__art"><img src="../assets/houses/ironmantle.jpg" alt="House Ironmantle banner" loading="lazy"></div>
+  <div class="house-page-hero__art"><img src="../../assets/houses/ironmantle.jpg" alt="House Ironmantle banner" loading="lazy"></div>
   <div class="house-page-hero__content">
     <p class="house-page-hero__eyebrow">Great House of Ayerstone</p>
     <h1>House Ironmantle</h1>
