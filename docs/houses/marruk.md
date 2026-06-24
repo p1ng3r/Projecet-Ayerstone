@@ -1,6 +1,15 @@
-# House Marruk
+<div class="house-page-hero house-page-marruk" markdown>
+  <div class="house-page-hero__art"><img src="../assets/houses/marruk.jpg" alt="House Marruk banner" loading="lazy"></div>
+  <div class="house-page-hero__content">
+    <p class="house-page-hero__eyebrow">Great House of Ayerstone</p>
+    <h1>House Marruk</h1>
+    <p class="house-page-hero__title">Shields of Ayerstone</p>
+    <p class="house-page-hero__motto">“Stand where others break.”</p>
+    <div class="house-page-hero__tags"><span>Security</span><span>Guards</span><span>Oaths</span></div>
+  </div>
+</div>
 
-## Shields of Ayerstone
+## Overview
 
 House Marruk is the house of security, contracts, mercenary companies, guard hounds, escort duty, and professional vigilance.
 
