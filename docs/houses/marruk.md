@@ -1,4 +1,4 @@
-<div class="house-page-hero house-page-marruk" markdown>
+<section class="house-page-hero house-page-marruk">
   <div class="house-page-hero__art"><img src="../../assets/houses/marruk.jpg" alt="House Marruk banner" loading="lazy"></div>
   <div class="house-page-hero__content">
     <p class="house-page-hero__eyebrow">Great House of Ayerstone</p>
@@ -7,9 +7,9 @@
     <p class="house-page-hero__motto">“Stand where others break.”</p>
     <div class="house-page-hero__tags"><span>Security</span><span>Guards</span><span>Oaths</span></div>
   </div>
-</div>
+</section>
 
-<div class="house-glance" markdown>
+<section class="house-glance">
   <div class="house-glance__title">At a Glance</div>
   <div class="house-glance__grid">
     <div class="house-glance__item"><span class="house-glance__label">Sphere</span><span class="house-glance__value">Security contracts, escort duty, watch service, and professional vigilance.</span></div>
@@ -17,7 +17,7 @@
     <div class="house-glance__item"><span class="house-glance__label">Colors</span><span class="house-glance__value">Red stone, dark timber, iron, leather, brass, and service-mark bronze.</span></div>
     <div class="house-glance__item"><span class="house-glance__label">Known For</span><span class="house-glance__value">Training yards, armories, overnight watch rites, preparedness, and loyal gates.</span></div>
   </div>
-</div>
+</section>
 
 ## Overview
 
