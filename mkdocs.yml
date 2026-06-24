@@ -6,6 +6,7 @@ repo_name: p1ng3r/Ayerstone-Setting-Guide
 
 extra_css:
   - stylesheets/ayerstone.css
+  - stylesheets/house-banners.css
 
 theme:
   name: material
