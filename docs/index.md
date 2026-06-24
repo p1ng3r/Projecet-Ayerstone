@@ -6,10 +6,10 @@
 A floating city between worlds. A harbor of Arkflight ships. A kingdom built on stone, water, chains, magic, and dangerous ambition.
 
 <div class="ayerstone-hero-actions">
-  <a class="ayerstone-hero-button" href="districts/index.md"><span>Explore the City</span></a>
-  <a class="ayerstone-hero-button" href="houses/index.md"><span>Great Houses</span></a>
-  <a class="ayerstone-hero-button" href="player-guide/chainbound-isles.md"><span>Chainbound Isles</span></a>
-  <a class="ayerstone-hero-button" href="arkflight-tech/index.md"><span>Arkflight Technology</span></a>
+  <a class="ayerstone-hero-button" href="districts/"><span>Explore the City</span></a>
+  <a class="ayerstone-hero-button" href="houses/"><span>Great Houses</span></a>
+  <a class="ayerstone-hero-button" href="player-guide/chainbound-isles/"><span>Chainbound Isles</span></a>
+  <a class="ayerstone-hero-button" href="arkflight-tech/"><span>Arkflight Technology</span></a>
 </div>
 
 </div>
@@ -27,22 +27,22 @@ Ayerstone is a massive floating world-shard city suspended in the dark void. Ark
 ## Start Here
 
 <div class="ayerstone-art-grid">
-  <a class="ayerstone-art-card" href="districts/index.md" aria-label="Open Districts">
+  <a class="ayerstone-art-card" href="districts/" aria-label="Open Districts">
     <img data-ayerstone-art="explore" alt="Explore the City">
     <strong>The City</strong>
     <span>Explore the major districts of Ayerstone: Crownward, Merchant Reach, Driftwall, the Grand Docks, Noble Row, Portal Lake, Brassworks, Deepstone Gate, and Waterfall Ward.</span>
   </a>
-  <a class="ayerstone-art-card" href="houses/index.md" aria-label="Open Great Houses">
+  <a class="ayerstone-art-card" href="houses/" aria-label="Open Great Houses">
     <img data-ayerstone-art="great" alt="Great Houses">
     <strong>Great Houses</strong>
     <span>Learn the noble houses that shape the city's politics, trade, food, ships, law, water, and industry.</span>
   </a>
-  <a class="ayerstone-art-card" href="player-guide/chainbound-isles.md" aria-label="Open Chainbound Isles">
+  <a class="ayerstone-art-card" href="player-guide/chainbound-isles/" aria-label="Open Chainbound Isles">
     <img data-ayerstone-art="chain" alt="Chainbound Isles">
     <strong>Chainbound Isles</strong>
     <span>Journey beyond the main city to the chained biome-islands, including Vael'Tharis, the Isle of the Dawn-Wing.</span>
   </a>
-  <a class="ayerstone-art-card" href="arkflight-tech/index.md" aria-label="Open Arkflight Tech">
+  <a class="ayerstone-art-card" href="arkflight-tech/" aria-label="Open Arkflight Tech">
     <img data-ayerstone-art="ark" alt="Arkflight Technology">
     <strong>Arkflight Technology</strong>
     <span>Understand Arkengines, aetherite, levstone, Ark Compasses, and the magical systems that keep civilization moving through the Void.</span>
