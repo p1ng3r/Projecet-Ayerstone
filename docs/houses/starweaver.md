@@ -1,6 +1,15 @@
-# House Starweaver
+<div class="house-page-hero house-page-starweaver" markdown>
+  <div class="house-page-hero__art"><img src="../assets/houses/starweaver.jpg" alt="House Starweaver banner" loading="lazy"></div>
+  <div class="house-page-hero__content">
+    <p class="house-page-hero__eyebrow">Great House of Ayerstone</p>
+    <h1>House Starweaver</h1>
+    <p class="house-page-hero__title">Keepers of Horizons</p>
+    <p class="house-page-hero__motto">“Every horizon opens.”</p>
+    <div class="house-page-hero__tags"><span>Trade</span><span>Shipping</span><span>Routes</span></div>
+  </div>
+</div>
 
-## Keepers of Horizons
+## Overview
 
 House Starweaver is the merchant house of routes, horizons, exploration, and Arkflight trade. Its power rests on shipping, jump routes, long-distance commerce, and the Celestial Trade and Shipping Consortium.
 
