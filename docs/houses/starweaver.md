@@ -1,4 +1,4 @@
-<div class="house-page-hero house-page-starweaver" markdown>
+<section class="house-page-hero house-page-starweaver">
   <div class="house-page-hero__art"><img src="../../assets/houses/starweaver.jpg" alt="House Starweaver banner" loading="lazy"></div>
   <div class="house-page-hero__content">
     <p class="house-page-hero__eyebrow">Great House of Ayerstone</p>
@@ -7,9 +7,9 @@
     <p class="house-page-hero__motto">“Every horizon opens.”</p>
     <div class="house-page-hero__tags"><span>Trade</span><span>Shipping</span><span>Routes</span></div>
   </div>
-</div>
+</section>
 
-<div class="house-glance" markdown>
+<section class="house-glance">
   <div class="house-glance__title">At a Glance</div>
   <div class="house-glance__grid">
     <div class="house-glance__item"><span class="house-glance__label">Sphere</span><span class="house-glance__value">Shipping, trade routes, exploration, and jump-route influence.</span></div>
@@ -17,7 +17,7 @@
     <div class="house-glance__item"><span class="house-glance__label">Colors</span><span class="house-glance__value">Midnight blue, silver, and white-gold.</span></div>
     <div class="house-glance__item"><span class="house-glance__label">Known For</span><span class="house-glance__value">Maps, contracts, open balconies, blue lanterns, and captains who know where profit hides.</span></div>
   </div>
-</div>
+</section>
 
 ## Overview
 
