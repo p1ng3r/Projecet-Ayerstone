@@ -1,6 +1,15 @@
-# House Blackwake
+<div class="house-page-hero house-page-blackwake" markdown>
+  <div class="house-page-hero__art"><img src="../assets/houses/blackwake.jpg" alt="House Blackwake banner" loading="lazy"></div>
+  <div class="house-page-hero__content">
+    <p class="house-page-hero__eyebrow">Great House of Ayerstone</p>
+    <h1>House Blackwake</h1>
+    <p class="house-page-hero__title">Lords of the Black Wake</p>
+    <p class="house-page-hero__motto">“The Wake Remembers.”</p>
+    <div class="house-page-hero__tags"><span>Privateers</span><span>Escorts</span><span>Convoys</span></div>
+  </div>
+</div>
 
-## Lords of the Black Wake
+## Overview
 
 House Blackwake is the house of privateers, convoy escorts, anti-piracy contracts, naval discipline, and hard-earned protection.
 
