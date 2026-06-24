@@ -9,6 +9,16 @@
   </div>
 </div>
 
+<div class="house-glance" markdown>
+  <div class="house-glance__title">At a Glance</div>
+  <div class="house-glance__grid">
+    <div class="house-glance__item"><span class="house-glance__label">Sphere</span><span class="house-glance__value">Monarchy, legitimacy, ceremonial law, and royal continuity.</span></div>
+    <div class="house-glance__item"><span class="house-glance__label">Seat</span><span class="house-glance__value">Crownward Palace above Noble Row and Portal Lake.</span></div>
+    <div class="house-glance__item"><span class="house-glance__label">Colors</span><span class="house-glance__value">White marble, gold, violet, and crown-bright stone.</span></div>
+    <div class="house-glance__item"><span class="house-glance__label">Known For</span><span class="house-glance__value">Ancient rulership, public ceremony, dynastic memory, and the burden of old bargains.</span></div>
+  </div>
+</div>
+
 ## Overview
 
 House Aurelian is the royal house of Ayerstone. Where other houses measure power in ships, contracts, ore, or engines, Aurelian measures it in continuity.
