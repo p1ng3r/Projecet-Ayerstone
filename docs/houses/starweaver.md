@@ -9,6 +9,16 @@
   </div>
 </div>
 
+<div class="house-glance" markdown>
+  <div class="house-glance__title">At a Glance</div>
+  <div class="house-glance__grid">
+    <div class="house-glance__item"><span class="house-glance__label">Sphere</span><span class="house-glance__value">Shipping, trade routes, exploration, and jump-route influence.</span></div>
+    <div class="house-glance__item"><span class="house-glance__label">Seat</span><span class="house-glance__value">Noble Row and the Celestial Trade and Shipping Consortium on the Upper Docks.</span></div>
+    <div class="house-glance__item"><span class="house-glance__label">Colors</span><span class="house-glance__value">Midnight blue, silver, and white-gold.</span></div>
+    <div class="house-glance__item"><span class="house-glance__label">Known For</span><span class="house-glance__value">Maps, contracts, open balconies, blue lanterns, and captains who know where profit hides.</span></div>
+  </div>
+</div>
+
 ## Overview
 
 House Starweaver is the merchant house of routes, horizons, exploration, and Arkflight trade. Its power rests on shipping, jump routes, long-distance commerce, and the Celestial Trade and Shipping Consortium.
