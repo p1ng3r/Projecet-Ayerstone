@@ -74,6 +74,10 @@ nav:
       - Vael'Tharis: chainbound-isles/vaeltharis.md
       - Skullwatch Depot: chainbound-isles/skullwatch-depot.md
       - Glacivane: chainbound-isles/glacivane.md
+  - Factions:
+      - Overview: factions/index.md
+      - Brotherhood of the Cosmic Flame: factions/brotherhood-cosmic-flame.md
+      - Grelkin Cartel: factions/grelkin-cartel.md
   - Districts:
       - Overview: districts/index.md
       - Grand Docks: districts/grand-docks.md
